@@ -8,11 +8,11 @@ Project consists of creating a "disable USB storage" rule, and applying it to a 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Windows Azure Bastion</b> 
-- <b>Windows Server Manager </b>
+- <b>Windows Server Manager 2022 </b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b>
+- <b>Windows 10 </b>
 - <b>Group Policy Manager <b/>
 - <b>Windows Command Line Interface <b/>
    
